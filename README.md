@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jegadeeshh
-- 👀 I’m interested in Developing
+- 👀 I’m interested in Fullstack Developing
 - 🌱 I’m currently learning php laarvel framework
 - 💞️ I’m looking to collaborate on technologies
 - 📫 How to reach me jegadeeshking112@gmail.com msg me
