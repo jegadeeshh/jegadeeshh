@@ -2,7 +2,8 @@
 - 👀 I’m interested in Developing
 - 🌱 I’m currently learning php laarvel framework
 - 💞️ I’m looking to collaborate on technologies
-- 📫 How to reach me jegadeeshking112@gmail.com
+- 📫 How to reach me jegadeeshking112@gmail.com msg me
+- 
 
 <!---
 jegadeeshh/jegadeeshh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
